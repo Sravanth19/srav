@@ -1,0 +1,47 @@
+
+*{
+  margin: 0;
+}
+/*.blue{
+  color : blue;
+}
+.red{
+  color : red;
+}
+.yellow{
+  color : yellow;
+}
+.pink{
+  color : pink;
+}
+.orange{
+  color : orange;
+}
+.violet{
+  color : violet;
+}
+body{
+  background-color :bisque;
+}*/
+h1{
+  /*border-style:dotted;
+  border-color : rgb(red, green, blue);
+  border-width : 50px;
+  border :solid red 20px ;*/
+/* border-left:solid rgb(0,30,255) 20px;
+ background-color:  rgb(107,218,240);
+  margin: 20px;
+  text-align: center;*/
+}
+ 
+
+/*.btn{
+  border-style: solid;
+  border-color : blueviolet;
+  border-radius : 30px (these 30px for top and bottom 50px these 50px for left and right);
+   text-align : center;
+}*/
+ /* padding (marginn and padding(inside) is same as margin(outside)*/
+ 
+/* border short end property
+ border-right,border-top*/
